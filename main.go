@@ -23,7 +23,7 @@ import (
 	flag "github.com/agend07/docker/pkg/mflag"
 
 	//dockerClient "github.com/fsouza/go-dockerclient"
-	dockerClient "github.com/UlfR/go-dockerclient"
+	dockerClient "github.com/UlfR/go-dockerclient v1.7.2.1"
 )
 
 var (
